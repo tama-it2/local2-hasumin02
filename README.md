@@ -20,6 +20,25 @@
  - [クマ出没](https://topics.smt.docomo.ne.jp/article/uty/region/uty-1980881)
 > 急角度ののり面をのぼるクマが目撃されました。
 
+## 東京都八王子市
+### 位置
+* 東京都の西側にある大きな市
+    * 都内で２番目に大きい
+    * 多摩地域の中心的な場所
+
+### 人口
+* 約５７万人
+
+### 個人的魅力ポイント
+* 都心へのアクセスが良い！利便性◎
+    * でも住居費はそんなにかからない
+* 自然と街が共存している
+    * 高尾山などもあって自然豊か
+    * 商業施設や大学・専門学校などが集積している
+        * 住みやすくて通いやすい市です！
+* [ごみの排出量が３年連続全国最小](https://www.yomiuri.co.jp/national/20250422-OYT1T50169/)
+> 市民や事業者のごみ減量や資源化の意識の高さが大きい
+
 条件：
 
 1. 市町村名は、[第２見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) `##` で記述しなさい
